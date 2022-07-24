@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['62838406007654'] 
+global.mods = [6283840600765] 
+global.prems = [6283840600765] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
+global.nameowner = 'Putra Kull'
+global.numberowner = '6283840600765'
+global.instagram = 'https://instagram.com/xxzwaway'
 global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.dana = '083856051043'
+global.pulsa = '088274076151'
+global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
+global.namebot = 'Wawa Kull Bot'
 global.gc = 'bit.ly/AnyaBot-Group'
 global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© wawa kull'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
